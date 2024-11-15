@@ -1,0 +1,64 @@
+{
+  "appName": "GP3_NOTES",
+  "token": "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",
+  "model": "text-ada-001",
+  "tokens": 1200,
+  "temperature": 5,
+  "promptHistory": [
+    {
+      "prompt": "make a plan for inventory management system for hostels\n",
+      "processedPrompt": "make a plan for inventory management system for hostels\n",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "make a plan for inventory management system for hostels\n",
+      "processedPrompt": "make a plan for inventory management system for hostels\n",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "make a plan for inventory management system for hostels\n",
+      "processedPrompt": "make a plan for inventory management system for hostels\n",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "make a plan for inventory management system for hostels\n",
+      "processedPrompt": "make a plan for inventory management system for hostels\n",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "make a plan for inventory management system for hostels\n",
+      "processedPrompt": "make a plan for inventory management system for hostels\n",
+      "temperature": 0.5,
+      "tokens": 1200
+    },
+    {
+      "prompt": "make a plan for inventory management system for hostels\n",
+      "processedPrompt": "make a plan for inventory management system for hostels\n",
+      "temperature": 0.5,
+      "tokens": 1200
+    }
+  ],
+  "tokenParams": {
+    "prefix": [
+      "Write an essay",
+      "Write dashed notes",
+      "Write bullet notes",
+      "Write paragraphs",
+      "Write an article",
+      "Create a manual",
+      "Create an outline",
+      "Write a summary",
+      "Write a program"
+    ],
+    "postfix": [
+      "with sources",
+      "with footnotes",
+      "with comments",
+      "with quotes"
+    ]
+  }
+}
